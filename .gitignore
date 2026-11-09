@@ -1,0 +1,9 @@
+# never commit real save games: they contain account IDs and player names
+*.a8s
+*.a7s
+*.bin
+__pycache__/
+*.egg-info/
+build/
+dist/
+.venv/
